@@ -27,4 +27,4 @@ while num != 0:
   else:
     num = int(input("Enter a number or enter 0 to stop: "))
 
-print:
+print("Number of evens:", brian)
